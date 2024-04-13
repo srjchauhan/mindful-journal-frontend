@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.widget-wrapper{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding-bottom: 2rem;
+  flex-wrap: wrap;
+}
